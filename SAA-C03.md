@@ -5,3 +5,5 @@
 
 **Glue**:`ETL: extract, transform and load`
 **MSK**:`Managed Streaming for Apache Kafka`
+**Amazon GuardDuty** is a threat detection service that analyzes AWS CloudTrail, VPC Flow Logs, and DNS logs to detect malicious or unauthorized behavior.
+**Amazon Macie** is a fully managed service that helps you discover and protect your sensitive data, using machine learning and pattern matching.
