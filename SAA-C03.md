@@ -14,3 +14,4 @@
 **Cost Explorer** Choose an optimal Savings Plan (to lower prices on your bill)  Forecast usage up to 12 months based on previous usage with *graphs*
 
 **monolithic application** -> containers
+**ACL** Access Control List, NACL -> Network ACL,  Clients connect to a defined port, and expect a response on an ephemeral port Different Operating Systems use different port ranges, examples: IANA & MS Windows 10 è 49152 – 65535 Many Linux Kernels è 32768 – 60999
