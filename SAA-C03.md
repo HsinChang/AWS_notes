@@ -15,3 +15,5 @@
 
 **monolithic application** -> containers
 **ACL** Access Control List, NACL -> Network ACL,  Clients connect to a defined port, and expect a response on an ephemeral port Different Operating Systems use different port ranges, examples: IANA & MS Windows 10 è 49152 – 65535 Many Linux Kernels è 32768 – 60999
+
+An **Internet Gateway** is used to connect a VPC to the internet while a **NAT Gateway** is used to connect the private subnet to the internet (through public subnet and Internet Gateway)¹. NAT Gateway is an access point for your private instance to access the internet but resources from the internet cannot access your private instance. NAT gateway is a one-way bridge for private resources
